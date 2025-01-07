@@ -9,5 +9,3 @@ CRUD (Create, Read, Update, Delete) operácie pre záznamy o garážach.
 Oddelenie logiky pomocou vrstvenej architektúry.
 
 Spring Data JPA na interakciu s databázou.
-
-Jasná logika konverzie medzi entitami databázy a modelmi aplikácie.
